@@ -15,7 +15,7 @@ Here is a list of my Friday Projects linked to their respective repositories. Th
 | 1     | **Better Doctor API** | [Link](https://github.com/coreysnightout/doctor-api) |
 | 2     | **Zoo Application Animal Tracker** | [Link](https://github.com/coreysnightout/animal-tracker) |
 | 3  |**LA Kings Roster** | [Link](https://github.com/coreysnightout/la-kings-roster-final) |
-| 4 | **Cutthroat's Cavern** (Group Project(Julian Flood, Kimlan Nguyen, Corey Redding, Jordan Loop))|[Link](https://github.com/coreysnightout/Cutthroats-Cavern-Game)[Link] |
+| 4 | **Cutthroat's Cavern** (Group Project(Julian Flood, Kimlan Nguyen, Corey Redding, Jordan Loop))|[Link](https://github.com/coreysnightout/Cutthroats-Cavern-Game) |
 
 ---
 
@@ -27,7 +27,7 @@ Here is a list of my Friday Projects linked to their respective repositories. Th
 | 2      |  **Responsive Design** | [Link](https://github.com/coreysnightout/responsive-design-project) |
 | 3      |  **Tribute Page Sketchy Tank** | [Link](https://github.com/coreysnightout/tribute-page) |
 | 4      |  **Personal Portfolio** | [Link](https://github.com/coreysnightout/portfolio-project) |
-| 5      |  **Dad Joke Generator** (GROUP PROJECT(Justin Gomez, Daniel Lopez, Corey Redding, Calvin Cushman)) | [Link](https://github.com/coreysnightout/The-Dad-Joke-Generator)[Link] |
+| 5      |  **Dad Joke Generator** (GROUP PROJECT(Justin Gomez, Daniel Lopez, Corey Redding, Calvin Cushman)) | [Link](https://github.com/coreysnightout/The-Dad-Joke-Generator) |
 
 ---
 
@@ -39,7 +39,7 @@ Here is a list of my Friday Projects linked to their respective repositories. Th
 | 2     | **Transportation Survey** | [Link](https://github.com/coreysnightout/Transportation-Survey/tree/gh-pages) |
 | 3     | **Ping Pong JavaScript** | [Link](https://github.com/coreysnightout/Ping-Pong) |
 | 4     | **Pizza Ordering Website** | [Link](https://github.com/coreysnightout/pizza-order)  |
-| 5     | **Packpartout** (GROUP PROJECT(Dani Trulls, Jordan Loop, Corey Redding, Beth Hanson)) | [Link](https://github.com/coreysnightout/Campsite)[Link]  |
+| 5     | **Packpartout** (GROUP PROJECT(Dani Trulls, Jordan Loop, Corey Redding, Beth Hanson)) | [Link](https://github.com/coreysnightout/Campsite) |
 
 ## Contact details
 
